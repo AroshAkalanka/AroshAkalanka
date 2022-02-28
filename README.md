@@ -1,7 +1,7 @@
 ## Hi there 👋👻
 
 ### My name is Arosh Akalanka. I really love Programming. 💻❤💡
-I think **Tech** is the real life magic power. ✨💥
+I think **Tech** is like the real life magic power. ✨💥
 <br />
 So I really love to learn and try new things. ☺
 <br />
