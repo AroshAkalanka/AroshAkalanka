@@ -1,7 +1,6 @@
 ## Hi there 👋👻
 
 ### My name is Arosh. I really love Programming. 💻❤💡
-I think **Tech** is like the real life magic power. ✨💥
 <br />
 So I really love to learn and try new things. ☺
 <br />
