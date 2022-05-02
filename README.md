@@ -4,7 +4,7 @@
 <br />
 So I really love to learn and try new things. ☺
 <br />
-Connect with me on [Twitter](https://twitter.com/Arosh03) 📱
+<a href="mailto:mail.aroshakalanka@gmail.com">Contact Me ✉ <a>
 
 
 <!--
