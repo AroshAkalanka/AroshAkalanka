@@ -1,10 +1,8 @@
 ## Hi there 👋👻
 
-### My name is Arosh. I really love Programming. 💻❤💡
+### My name is Arosh. 💻❤💡
 <br />
-So I really love to learn and try new things. ☺
-<br />
-<a href="mailto:mail.aroshakalanka@gmail.com">Contact Me ✉ <a>
+<a href="mailto:mail.aroshakalanka@gmail.com"> Contact Me ✉ <a>
 
 
 <!--
