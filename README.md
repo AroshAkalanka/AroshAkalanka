@@ -1,8 +1,12 @@
-## Hi there 👋👻
+## Hi there 👻
 
-### My name is Arosh. 💻❤💡
-<br />
-<a href="mailto:mail.aroshakalanka@gmail.com"> Contact Me ✉ <a>
+### My name is [Arosh](https://arosh.tech). 💻❤
+
+
+Still thinking what to write here... 🤔💤
+<br>
+(Feel free to <a href="mailto:mail.aroshakalanka@gmail.com">send<a> me if you have an idea. 😂)
+
 
 
 <!--
