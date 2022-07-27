@@ -1,12 +1,11 @@
 ## Hi there! 🤓
 
-### My name is [Arosh](https://arosh.tech). 💻❤
 
-
+My name is [Arosh](https://arosh.tech). 💻❤
+<br>
 Typing... 💤
 <br>
 
-<!-- (Feel free to <a href="mailto:mail.aroshakalanka@gmail.com">send<a> me if you have an idea. 😂) -->
 
 
 
