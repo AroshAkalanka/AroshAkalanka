@@ -1,9 +1,9 @@
-## Hi there 👻
+## Hi there 👽
 
 ### My name is [Arosh](https://arosh.tech). 💻❤
 
 
-Still thinking what to write here... 💤
+Typing... 💤
 <br>
 
 <!-- (Feel free to <a href="mailto:mail.aroshakalanka@gmail.com">send<a> me if you have an idea. 😂) -->
