@@ -7,23 +7,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AroshAkalanka&theme=github-dark-blue&hide_border=true)
 
-
-
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-
-<!--
-<p align="left">
-<a href="https://twitter.com/Aroshxyz" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Arosh Akalanka" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aroshakalanka/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Arosh Akalanka" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/arosh.akalanka" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Arosh Akalanka" height="50" width="50" /></a>
-</p>
--->
+<h3 align="left">Feel free to Reach out anytime:</h3>
 
 <a href="https://github.com/AroshAkalanka">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://linkedin.com/in/AroshAkalanka">![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
-<a href="https://twitter.com/Aroshxyz">![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://twitter.com/Arosshh">![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://instagram.com/AroshAkalanka">![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
