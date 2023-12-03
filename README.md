@@ -11,7 +11,7 @@
 ##### FEEL FREE TO REACH OUT ANYTIME:
 
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/AroshAkalanka)
-[![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheArosh)
+[![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AroshxAkalanka)
 [![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/AroshAkalanka)
 [![threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://threads.net/@aroshakalanka)
 
